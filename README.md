@@ -9,6 +9,7 @@ yarn add @rsw/chasm
 ```
 
 ```js
+// import '@rsw/chasm/chasm_bg.wasm';
 import init, { chasm } from '@rsw/chasm';
 ```
 
@@ -16,5 +17,7 @@ import init, { chasm } from '@rsw/chasm';
 
 * [Demo](https://github.com/lencx/learn-wasm)
 
-<img src="./assets/1.png" width="200" /> <img src="./assets/2.png" width="200" />
-<img src="./assets/3.png" width="200" /> <img src="./assets/4.png" width="200" />
+![1](https://raw.githubusercontent.com/rwasm/rsw-chasm/main/assets/1.png)\
+![2](https://raw.githubusercontent.com/rwasm/rsw-chasm/main/assets/2.png)\
+![3](https://raw.githubusercontent.com/rwasm/rsw-chasm/main/assets/3.png)\
+![4](https://raw.githubusercontent.com/rwasm/rsw-chasm/main/assets/4.png)
