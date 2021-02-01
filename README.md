@@ -9,8 +9,9 @@ yarn add @rsw/chasm
 ```
 
 ```js
-// import '@rsw/chasm/chasm_bg.wasm';
 import init, { chasm } from '@rsw/chasm';
+
+chasm('canvas_id');
 ```
 
 ## Examples

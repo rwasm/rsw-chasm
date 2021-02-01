@@ -2,7 +2,7 @@
   "name": "@rsw/chasm",
   "description": "chasm 💖 rust + webGL",
   "author": "lencx <cxin1314@gmail.com>",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "files": [
     "chasm_bg.wasm",
     "chasm.js",
@@ -10,7 +10,6 @@
   ],
   "module": "chasm.js",
   "types": "chasm.d.ts",
-  "sideEffects": false,
   "keywords": [
     "rsw",
     "chasm",
